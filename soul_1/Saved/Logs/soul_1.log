@@ -1278,3 +1278,7 @@ Purging the undo buffer...
 [2020.12.02-22.16.42:375][538]LogTemp: Resetting audio stream to device id 
 [2020.12.02-22.16.42:414][538]LogAudioMixer: Display: 0: FrontLeft
 [2020.12.02-22.16.42:415][538]LogAudioMixer: Display: 1: FrontRight
+[2020.12.02-22.26.05:104][217]AssetReimport: New page: Outstanding source content changes 16:26:05
+[2020.12.02-22.26.05:127][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.12.02-22.26.09:534][217]LogSlate: Window 'Delete Assets' being destroyed
+[2020.12.02-22.26.12:813][348]AssetReimport: Attempting to delete main_menu_background (its source file has been removed).
