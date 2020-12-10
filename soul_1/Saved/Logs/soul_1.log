@@ -1054,3 +1054,116 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.10-19.00.50:996][275]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ADE0077200), frame # 58275
 [2020.12.10-19.00.50:999][275]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
 [2020.12.10-19.00.51:027][276]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.12.10-19.28.01:849][692]BlueprintLog: New page: Compilar 2DSideScrollerCharacter
+[2020.12.10-19.28.02:311][692]LogUObjectHash: Compacting FUObjectHashTables data took  24.76ms
+[2020.12.10-19.28.04:276][709]LogSavePackage: Moving '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Saved/2DSideScrollerCharacterD0358BD24E0B9CA2B2622B8330B12270.tmp' to '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Content/MainCharacter/2DSideScrollerCharacter.uasset'
+[2020.12.10-19.28.04:341][709]AssetCheck: New page: Asset Save: 2DSideScrollerCharacter
+[2020.12.10-19.28.04:342][709]LogContentValidation: Display: Validating Blueprint /Game/MainCharacter/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.12.10-19.28.06:457][760]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.10-19.28.06:554][760]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.10-19.28.06:555][760]PIE: New page: Sesión PIE (reproducción en el editor): tuto1 (10 dic. 2020 13:28:06)
+[2020.12.10-19.28.06:556][760]LogPlayLevel: Creating play world package: /Game/levels/tuto1/UEDPIE_0_tuto1
+[2020.12.10-19.28.06:576][760]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019910s)
+[2020.12.10-19.28.06:582][760]LogAIModule: Creating AISystem for world tuto1
+[2020.12.10-19.28.06:583][760]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001ADFD4F6E00), frame # 75760
+[2020.12.10-19.28.06:583][760]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001ADF459FEC0), frame # 75760
+[2020.12.10-19.28.06:584][760]LogPlayLevel: PIE: World Init took: (0.007925s)
+[2020.12.10-19.28.06:584][760]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/tuto1/tuto1.tuto1 to /Game/levels/tuto1/UEDPIE_0_tuto1.tuto1 (0.028606s)
+[2020.12.10-19.28.06:725][760]LogUObjectHash: Compacting FUObjectHashTables data took  22.97ms
+[2020.12.10-19.28.06:728][760]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.10-19.28.06:729][760]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.10-19.28.06:729][760]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.10-19.28.06:729][760]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.10-19.28.06:729][760]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.10-19.28.06:729][760]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.10-19.28.06:729][760]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.10-19.28.06:729][760]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.10-19.28.06:731][760]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.10-19.28.06:731][760]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.10-19.28.06:750][760]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.10-19.28.06:750][760]LogAudioMixer: Display: 1: FrontRight
+[2020.12.10-19.28.06:882][760]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.12.10-19.28.06:883][760]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.10-19.28.06:884][760]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.10-19.28.06:884][760]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.10-19.28.06:887][760]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.10-19.28.06:966][760]LogInit: FAudioDevice initialized.
+[2020.12.10-19.28.06:997][760]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.10-19.28.07:010][760]LogWorld: Bringing World /Game/levels/tuto1/UEDPIE_0_tuto1.tuto1 up for play (max tick rate 60) at 2020.12.10-16.28.07
+[2020.12.10-19.28.07:012][760]LogWorld: Bringing up level for play took: 0.011384
+[2020.12.10-19.28.07:012][760]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2020.12.10-19.28.07:029][760]PIE: El servidor ha iniciado la sesión
+[2020.12.10-19.28.07:032][760]PIE: Play in editor total start time 0,488 seconds.
+[2020.12.10-19.28.15:895][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-19.28.15:895][210]LogWorld: BeginTearingDown for /Game/levels/tuto1/UEDPIE_0_tuto1
+[2020.12.10-19.28.15:896][210]LogWorld: UWorld::CleanupWorld for tuto1, bSessionEnded=true, bCleanupResources=true
+[2020.12.10-19.28.15:898][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.10-19.28.15:920][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.10-19.28.15:932][210]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.10-19.28.16:091][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-19.28.16:093][210]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001ADF459FEC0), frame # 76210
+[2020.12.10-19.28.16:093][210]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001ADFD4F6E00), frame # 76210
+[2020.12.10-19.28.16:105][210]LogUObjectHash: Compacting FUObjectHashTables data took  11.08ms
+[2020.12.10-19.28.16:210][211]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.12.10-19.29.14:546][753]BlueprintLog: New page: Compilar HUD
+[2020.12.10-19.29.14:864][753]LogUObjectHash: Compacting FUObjectHashTables data took  15.90ms
+[2020.12.10-19.29.16:043][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/HUD" FILE="../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Content/UI/HUD/HUD.uasset" SILENT=true
+[2020.12.10-19.29.16:252][768]LogSavePackage: Moving '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Saved/HUD910C0C9542E2F9977C2504BE1E8FE21C.tmp' to '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Content/UI/HUD/HUD.uasset'
+[2020.12.10-19.29.16:312][768]AssetCheck: New page: Asset Save: HUD
+[2020.12.10-19.29.16:312][768]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD/HUD.HUD
+[2020.12.10-19.29.59:225][778]BlueprintLog: New page: Compilar HUD
+[2020.12.10-19.29.59:400][778]LogUObjectHash: Compacting FUObjectHashTables data took  15.34ms
+[2020.12.10-19.30.00:550][791]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/HUD/HUD" FILE="../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Content/UI/HUD/HUD.uasset" SILENT=true
+[2020.12.10-19.30.00:764][791]LogSavePackage: Moving '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Saved/HUD7F7222C047BC2927FD778C8B4ECCB458.tmp' to '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Content/UI/HUD/HUD.uasset'
+[2020.12.10-19.30.00:842][791]AssetCheck: New page: Asset Save: HUD
+[2020.12.10-19.30.00:842][791]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/HUD/HUD.HUD
+[2020.12.10-19.30.03:040][838]LogUObjectHash: Compacting FUObjectHashTables data took  19.65ms
+[2020.12.10-19.30.03:232][838]LogSavePackage: Moving '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Saved/tuto1FE71DDEF4BF969C7B18C7AA7FD1933E2.tmp' to '../../../../../../Users/eloy.chang/Documents/game desing/soul/soul_1/Content/levels/tuto1/tuto1.umap'
+[2020.12.10-19.30.03:719][838]AssetCheck: New page: Asset Save: tuto1
+[2020.12.10-19.30.03:719][838]LogContentValidation: Display: Validating World /Game/levels/tuto1/tuto1.tuto1
+[2020.12.10-19.30.04:300][868]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.10-19.30.04:352][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.10-19.30.04:352][868]PIE: New page: Sesión PIE (reproducción en el editor): tuto1 (10 dic. 2020 13:30:04)
+[2020.12.10-19.30.04:352][868]LogPlayLevel: Creating play world package: /Game/levels/tuto1/UEDPIE_0_tuto1
+[2020.12.10-19.30.04:365][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012726s)
+[2020.12.10-19.30.04:369][868]LogAIModule: Creating AISystem for world tuto1
+[2020.12.10-19.30.04:369][868]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001AE03058E00), frame # 78868
+[2020.12.10-19.30.04:369][868]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001AD8D261D00), frame # 78868
+[2020.12.10-19.30.04:370][868]LogPlayLevel: PIE: World Init took: (0.004079s)
+[2020.12.10-19.30.04:370][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/levels/tuto1/tuto1.tuto1 to /Game/levels/tuto1/UEDPIE_0_tuto1.tuto1 (0.017237s)
+[2020.12.10-19.30.04:497][868]LogUObjectHash: Compacting FUObjectHashTables data took  12.60ms
+[2020.12.10-19.30.04:502][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.10-19.30.04:502][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.10-19.30.04:502][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.10-19.30.04:502][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.10-19.30.04:503][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.10-19.30.04:503][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.10-19.30.04:503][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.10-19.30.04:503][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.10-19.30.04:505][868]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.10-19.30.04:505][868]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.10-19.30.04:514][868]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.10-19.30.04:514][868]LogAudioMixer: Display: 1: FrontRight
+[2020.12.10-19.30.04:586][868]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2020.12.10-19.30.04:587][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.10-19.30.04:587][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.10-19.30.04:587][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.10-19.30.04:589][868]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.10-19.30.04:639][868]LogInit: FAudioDevice initialized.
+[2020.12.10-19.30.04:662][868]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.12.10-19.30.04:671][868]LogWorld: Bringing World /Game/levels/tuto1/UEDPIE_0_tuto1.tuto1 up for play (max tick rate 60) at 2020.12.10-16.30.04
+[2020.12.10-19.30.04:671][868]LogWorld: Bringing up level for play took: 0.006896
+[2020.12.10-19.30.04:672][868]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.12.10-19.30.04:682][868]PIE: El servidor ha iniciado la sesión
+[2020.12.10-19.30.04:684][868]PIE: Play in editor total start time 0,338 seconds.
+[2020.12.10-19.30.21:580][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-19.30.21:580][778]LogWorld: BeginTearingDown for /Game/levels/tuto1/UEDPIE_0_tuto1
+[2020.12.10-19.30.21:581][778]LogWorld: UWorld::CleanupWorld for tuto1, bSessionEnded=true, bCleanupResources=true
+[2020.12.10-19.30.21:582][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.10-19.30.21:600][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.10-19.30.21:611][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.10-19.30.21:694][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.10-19.30.21:751][778]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001AD8D261D00), frame # 79778
+[2020.12.10-19.30.21:752][778]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001AE03058E00), frame # 79778
+[2020.12.10-19.30.21:761][778]LogUObjectHash: Compacting FUObjectHashTables data took   8.49ms
+[2020.12.10-19.30.21:840][779]LogPlayLevel: Display: Destroying online subsystem :Context_13
